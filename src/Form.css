@@ -1,0 +1,46 @@
+.Form {
+  width: 20%;
+  max-width: 100%;
+  margin: 6rem auto;
+  height: 400px;
+  padding: 2rem 6rem 6rem 6rem;
+  background-color: #393e46;
+  box-shadow: rgba(249, 109, 0, 1) 18px -18px;
+}
+
+.Form h1 {
+  color: #f96d00;
+  font-size: 46px;
+}
+
+.Form h4 {
+  text-align: center;
+}
+
+.Form button {
+  font-family: "Unna", serif;
+  background-image: linear-gradient(
+    to right,
+    rgb(252, 74, 26),
+    rgb(247, 183, 51)
+  );
+  background-size: 130% auto;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.7rem 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 3px;
+  color: #f2f2f2;
+  cursor: pointer;
+  font-size: 20px;
+  transition: all 400ms ease-in-out;
+}
+
+.Form button:hover {
+  background-position: right bottom;
+}
+
+.Form h4 {
+  text-align: center;
+}

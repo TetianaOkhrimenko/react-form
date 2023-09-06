@@ -1,0 +1,14 @@
+.Input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.Input label {
+  margin-bottom: 0.4rem;
+}
+
+.Input input {
+  margin-bottom: 0.4rem;
+  padding: 0.5rem 1rem;
+}
