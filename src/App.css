@@ -11,7 +11,7 @@
 }
 
 .App .filter {
-  /* filter: brightness(56%) saturate(102%) opacity(28%) contrast(252%); */
+  /*filter: brightness(56%) saturate(102%) opacity(28%) contrast(252%);*/
   opacity: 0.1;
 }
 
